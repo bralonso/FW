@@ -1,2 +1,2 @@
 # FW
-Firmware
+Firmware for the PPG watch
